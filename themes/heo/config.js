@@ -18,8 +18,8 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享产品资讯',
-  HEO_HERO_TITLE_2: '与技术消息',
+  HEO_HERO_TITLE_1: '探索科技生活前沿',
+  HEO_HERO_TITLE_2: '解锁生活方式',
   HEO_HERO_TITLE_3: 'http://techbox.cc.cd/',
   HEO_HERO_TITLE_4: '新版上线',
   HEO_HERO_TITLE_5: '我的视频主页',
